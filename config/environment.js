@@ -39,7 +39,7 @@ module.exports = function (environment) {
     BENCHMARKS: benchmarks(),
     modulePrefix: "ember-performance",
     environment,
-    rootURL: "/",
+    rootURL: "/ember-performance",
     locationType: "history",
     EmberENV: {
       EXTEND_PROTOTYPES: false,
