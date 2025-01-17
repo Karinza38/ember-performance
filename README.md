@@ -1,4 +1,4 @@
-### Ember Performance Suite
+ ### Ember Performance Suite
 
 The Ember Performance Suite is designed to help profile and diagnose
 the performance of the Ember.js framework. The general strategy is:
